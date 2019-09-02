@@ -22,7 +22,7 @@ while user_wants_numbers == True:
     i += 1
 
     if (i > 10):
-        print("this crap has now 10!")
+        print("this thing has now 10!")
         break
     elif (i < 10):
-        print("Penis")
+        print("TEST!")

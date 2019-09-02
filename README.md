@@ -6,7 +6,7 @@ I did this because sometimes I have to keep looking on my scripts to find someth
 
 Can also be valuable to other people, so, feel free to use it, copy, paste, study, check my notes, suggest changes...
 
-This is an evergrowing repo. I've started it on 02nd September 2019, and commited some stuff laying around on a flash drive and also wrote some scripts to put in here, commented and explained as best ad possible at the given momment.
+This is an evergrowing repo. I've started it on 02nd September 2019, and commited some stuff laying around on a flash drive and also wrote some scripts to put in here, and tried commenting and explaining stuff.
 
 If you find some explanation, not clear, some error on my comments, feel free to get in touch and tell me about it! I'll be glad to know and fix it.
 
